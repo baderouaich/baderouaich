@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning C/C++ and mobile development using Flutter Dart
 - 👯 I’m looking to collaborate on games, game engines, C/C++ projects and mobile apps
 - 📫 How to reach me: [@Website](https://badereddineouaich.herokuapp.com/) or email badereddineouaich@gmail.com
-<!--- ⚡ Fun fact: Men with beard are actually just Men without beard-->
+- ⚡ Fun fact: Men with beard are actually just Men without beard
 
 ![Bader Eddine Ouaich's github stats](https://github-readme-stats.vercel.app/api?username=BaderEddineOuaich&show_icons=true&theme=react)
 
