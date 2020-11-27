@@ -13,3 +13,7 @@
 
 [![Bader Eddine Ouaich's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaderEddineOuaich&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--Visitors username.reponame-->
+<p align=center>                           
+  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=BaderEddineOuaich.BaderEddineOuaich" alt="Visitors">                     
+</p>
