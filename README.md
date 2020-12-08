@@ -7,11 +7,20 @@
 - 📫 How to reach me: [@Website](https://badereddineouaich.herokuapp.com/) or email badereddineouaich@gmail.com
 - ⚡ Fun fact: Men with beard are actually just Men without beard
 
-![Bader Eddine Ouaich's github stats](https://github-readme-stats.vercel.app/api?username=BaderEddineOuaich&show_icons=true&theme=react)
 
+<!--BEFORE VERCEL ISSUE
+![Bader Eddine Ouaich's github stats](https://github-readme-stats.vercel.app/api?username=BaderEddineOuaich&show_icons=true&theme=react)
+-->
 <!--[![Bader Eddine Ouaich's github stats](https://github-readme-stats.vercel.app/api?username=BaderEddineOuaich&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
+<!--BEFORE VERCEL ISSUE
 [![Bader Eddine Ouaich's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaderEddineOuaich&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+[![Bader Eddine Ouaich's github stats](https://lucascudo-github-readme-stats.vercel.app/api?username=BaderEddineOuaich&layout=compact&theme=react&hide=css,html&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Bader Eddine Ouaich's top 4 langs](https://lucascudo-github-readme-stats.vercel.app/api/top-langs/?username=BaderEddineOuaich&layout=compact&theme=react&hide=css,html&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--Visitors username.reponame
 <p align=center>                           
