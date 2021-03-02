@@ -18,10 +18,10 @@
 [![Bader Eddine Ouaich's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaderEddineOuaich&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<!-- 03/02/2021
-[![Bader Eddine Ouaich's github stats](https://lucascudo-github-readme-stats.vercel.app/api?username=BaderEddineOuaich&layout=compact&theme=react&hide=css,html&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Bader Eddine Ouaich's top 4 langs](https://lucascudo-github-readme-stats.vercel.app/api/top-langs/?username=BaderEddineOuaich&layout=compact&theme=react&hide=css,html&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
--->
+[![Bader Eddine Ouaich's github stats](https://github-readme-stats.vercel.app/api?username=BaderEddineOuaich&layout=compact&theme=react&hide=css,html&show_icons=true&count_private=true)
+
+[![Bader Eddine Ouaich's top 4 langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaderEddineOuaich&layout=compact&theme=react&hide=css,html&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--Visitors username.reponame
 <p align=center>                           
