@@ -22,11 +22,14 @@
 <!-- Github stats (A+...)
 ![Bader Eddine Ouaich's github stats](https://github-readme-stats.vercel.app/api?username=BaderEddineOuaich&layout=compact&theme=react&hide=css,html&show_icons=true&count_private=true)
 -->
-[![Bader Eddine Ouaich's top 4 langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaderEddineOuaich&layout=compact&theme=react&hide=css,html&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+[![Bader Eddine Ouaich's top 4 langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaderEddineOuaich&layout=compact&theme=react&hide=css,html&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--Visitors username.reponame
 <p align=center>                           
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=BaderEddineOuaich.BaderEddineOuaich" alt="Visitors">                     
 </p>
+-->
+<!--
+![](https://komarev.com/ghpvc/?username=BaderEddineOuaich&color=F34B7D&style=plastic&label=welcome-visitor-number)
 -->
