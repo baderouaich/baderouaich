@@ -1,9 +1,10 @@
 <!--Themes: https://github.com/anuraghazra/github-readme-stats-->
 ### Hi there 👋
 
-- 🔭 I’m currently studying IT Development at [OFPPT](https://www.ofppt.ma/en/institutions/specialized-institute-applied-technology-ntic-sidi-maarouf-casablanca)<!--, meanwhile improving my problem solving skills by working on a basic game engine called the [PGE!](https://github.com/BaderEddineOuaich/PGE) (Pragmatic Game Engine)-->
-- 🌱 I’m currently learning C/C++ and mobile development using Flutter Dart
-- 👯 I’m looking to collaborate on games, game engines, C/C++ projects and mobile apps
+- 🔭My name is Bader, I just graduated IT Development Techniques from [OFPPT](https://www.ofppt.ma/en/institutions/specialized-institute-applied-technology-ntic-sidi-maarouf-casablanca)<!--, meanwhile improving my problem solving skills by working on a basic game engine called the [PGE!](https://github.com/BaderEddineOuaich/PGE) (Pragmatic Game Engine)-->
+<!--- 🔭 I’m currently studying IT Development at [OFPPT](https://www.ofppt.ma/en/institutions/specialized-institute-applied-technology-ntic-sidi-maarouf-casablanca)--><!--, meanwhile improving my problem solving skills by working on a basic game engine called the [PGE!](https://github.com/BaderEddineOuaich/PGE) (Pragmatic Game Engine)-->
+- 🌱 I’m currently learning C/C++, Mobile development using Flutter Dart and Desktop development with Qt6 (not all at once but its a fun routine breaker!)
+- 👯 I’m looking to collaborate on games, game engines, mobile apps and any C/C++ projects!
 - ⚡ Fun fact: Men with beard are actually just Men without beard
 <!-- - 📫 How to reach me: [@Website](https://badereddineouaich.herokuapp.com/) or email badereddineouaich@gmail.com -->
 
