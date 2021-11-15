@@ -37,7 +37,8 @@
 <!-- Github stats (A+...)
 ![Bader Eddine Ouaich's github stats](https://github-readme-stats.vercel.app/api?username=BaderEddineOuaich&layout=compact&theme=react&hide=css,html&show_icons=true&count_private=true)
 -->
-[![Bader Eddine Ouaich's top 4 langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaderEddineOuaich&layout=compact&theme=react&hide=css,html&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Bader Eddine Ouaich's top 4 langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaderEddineOuaich&layout=compact&theme=react&hide=css,html&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Bader Eddine Ouaich's github stats](https://github-readme-stats.vercel.app/api?username=BaderEddineOuaich&layout=compact&theme=react&hide=css,html&show_icons=true&count_private=true)
 
 
 <!--Visitors username.reponame
