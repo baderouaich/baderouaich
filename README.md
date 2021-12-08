@@ -3,9 +3,9 @@
 
 ### Hi there 👋 My name is Bader and i am an IT Developer
 
-- 🌱 I’m currently learning and practicing Software Development with Qt6 and the XTD framework using C++
+- 🌱 I’m currently learning and practicing Software Development with **Qt6** and the **[XTD Framework](https://github.com/gammasoft71/xtd)** using C++
 - 👯 I’m looking to collaborate on any open source project that's in the category of my interests such as games, game engines, desktop and mobile apps
-- ⚡ True fact: "If you do it right, nobody can see it, but it is everywhere.". **[Bjarne Stroustrup](https://youtu.be/u_ij0YNkFUs?t=248)**
+- ⚡ True fact: "_**If you do it right, nobody can see it, but it is everywhere.**_" **[Bjarne Stroustrup](https://youtu.be/u_ij0YNkFUs?t=248)**
 
 
 
