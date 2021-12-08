@@ -1,17 +1,14 @@
 <!--Themes: https://github.com/anuraghazra/github-readme-stats-->
 <!--Templates: https://github.com/kautukkundan/Awesome-Profile-README-templates-->
 
-### Hi there 👋 My name is Bader and i am an IT Developer
-
+### Hi there 👋 My name is Bader and i am a Software Developer
 - 🌱 I’m currently learning and practicing Software Development with **Qt6** and the **[XTD Framework](https://github.com/gammasoft71/xtd)** using C++
 - 👯 I’m looking to collaborate on any open source project that's in the category of my interests such as games, game engines, desktop and mobile apps
 - ⚡ True fact: "_**If you do it right, nobody can see it, but it is everywhere.**_" **[Bjarne Stroustrup](https://youtu.be/u_ij0YNkFUs?t=248)**
 
 
-
 <!-- Github stats -->
 [![Bader Eddine Ouaich's top 8 langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaderEddineOuaich&layout=compact&theme=react&hide=css,html&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) ![Bader Eddine Ouaich's github stats](https://github-readme-stats.vercel.app/api?username=BaderEddineOuaich&layout=compact&theme=react&hide=css,html&show_icons=true&count_private=true)
-
 
 <!-- Connect with me -->
 ### Connect with me through
