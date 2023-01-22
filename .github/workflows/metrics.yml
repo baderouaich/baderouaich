@@ -29,9 +29,11 @@ jobs:
           template: classic
           base: header, activity, community, repositories
           config_timezone: Africa/Casablanca
+
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_sections: repositories
+
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
@@ -42,6 +44,7 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
+
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_repositories: yes
@@ -55,7 +58,11 @@ jobs:
           plugin_code_load: 400
 
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/traffic/README.md
-          plugin_traffic: true
+          plugin_traffic: yes
 
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/habits/README.md
-          plugin_habits: true
+          plugin_habits: yes
+          plugin_habits_from: 1000
+          plugin_habits_days: 30
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
