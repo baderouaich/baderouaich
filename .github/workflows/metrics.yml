@@ -46,3 +46,6 @@ jobs:
           plugin_notable_from: all
           plugin_notable_repositories: yes
           plugin_notable_types: commit, pull_request, issues
+          plugin_code: yes
+          plugin_code_languages: c++, c, dart
+          plugin_code_load: 400
