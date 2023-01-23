@@ -39,3 +39,10 @@ jobs:
           plugin_code_load: 1000
 
   
+          # disable others
+          plugin_followup: no
+          plugin_languages: no
+          plugin_notable: no
+          plugin_traffic: no
+          plugin_habits: no
+          plugin_followup: no
