@@ -27,7 +27,7 @@ jobs:
           # Options
           user: baderouaich
           template: classic
-          base: header, activity, community, repositories
+          base: "" # nothing, only plugin_code section to be displayed from this part
           config_timezone: Africa/Casablanca
 
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/code/README.md
@@ -37,12 +37,4 @@ jobs:
           plugin_code_days: 365 # get snippets from last N days activity, default 3
           plugin_code_languages: c++, c, dart
           plugin_code_load: 1000
-
-  
-          # disable others
-          plugin_followup: no
-          plugin_languages: no
-          plugin_notable: no
-          plugin_traffic: no
-          plugin_habits: no
           
